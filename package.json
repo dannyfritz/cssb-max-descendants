@@ -1,6 +1,6 @@
 {
   "name": "cssb-max-descendants",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha",
   "description": "A css-bouncer plugin for checking against the maximum length of descendants.",
   "main": "index.js",
   "directories": {
