@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "tape test"
+    "test": "tape test/*.js | tap-dot"
   },
   "files": [
     "index.js",
@@ -31,6 +31,8 @@
   },
   "homepage": "https://github.com/dannyfritz/cssb-max-descendants",
   "devDependencies": {
+    "css-bouncer": "0.0.1-alpha2",
+    "tap-dot": "^0.2.3",
     "tape": "^3.0.0"
   },
   "dependencies": {

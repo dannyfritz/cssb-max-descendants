@@ -1,0 +1,4 @@
+{
+	"long": "div .class #id > ul > li.class {}",
+	"short": "div .class #id{}"
+}
